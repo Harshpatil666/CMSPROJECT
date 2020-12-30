@@ -139,7 +139,7 @@ static{
          switch(Integer.parseInt(option)){
             
             case 1 -> {
-              ServeNextCustomer();
+              ServesdfsdfsfNextCustomer();
              }
             case 2 -> {
                 
@@ -167,7 +167,7 @@ static{
     }
     
     
-    static void ServeNextCustomer(){
+    static void ServesdfsdfsfNextCustomer(){
         
         if(customerQueue.isEmpty()){
             System.out.println("There aren't any customers currently waiting in"
